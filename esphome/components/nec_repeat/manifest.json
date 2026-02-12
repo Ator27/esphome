@@ -1,0 +1,7 @@
+{
+  "name": "nec_repeat",
+  "version": "1.0.0",
+  "requirements": [],
+  "dependencies": ["remote_base"],
+  "codeowners": ["@Ator27"]
+}
